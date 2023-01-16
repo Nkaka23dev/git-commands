@@ -2,10 +2,10 @@
 
 ## First exercises
 
-1)git branch -m master main(stage changes, git add ., git commit -m "hdhd")
-2)git remote add origin <remote_repo_url>
-3)git remote -v
-4)git push -u origin <branch>
+1.git branch -m master main(stage changes, git add ., git commit -m "hdhd")
+2.git remote add origin <remote_repo_url>
+3.git remote -v
+4.git push -u origin <branch>
 
 ### creating a new branch 
  1) git branch <branch-name>
