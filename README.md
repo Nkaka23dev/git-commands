@@ -16,4 +16,5 @@
   2) git branch -d <branch-name> is used to delete a branch after it has fully merged.
   3) git push origin --delete <branch-name>(deleting a remote branch(git push origin --delete <branch_name>))
 
-## Second exercises
+## Second exercises 
+ 
