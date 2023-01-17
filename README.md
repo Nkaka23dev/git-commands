@@ -17,4 +17,10 @@
   3) git push origin --delete <branch-name>(deleting a remote branch(git push origin --delete <branch_name>))
 
 ## Second exercises 
+1. git stash save "messages"
+2. git stash list
+3. git stash pop bring the first stash in the queue, then git stash pop <stash_name>
+4. you can use git stash apply <stash_name> to bring stash and keep it in stash list.
+
+
  
