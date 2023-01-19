@@ -20,7 +20,13 @@
 1. git stash save "messages"
 2. git stash list
 3. git stash pop bring the first stash in the queue, then git stash pop <stash_name>
-4. you can use git stash apply <stash_name> to bring stash and keep it in stash list.
+4. you can use git stash apply <stash_name> to bring stash and keep it in stash list. 
+
+
+## comparing two branches 
+. git diff main ft/service-redesign(You can also use the --name-only option to only show the names of the files . .that have differences, rather than the differences themselves.)
+git diff --name-only main ft/service-redesign
+git diff --stat main ft/service-redesign(You can also use the --stat option to see a summary of the changes, like the number of additions and deletions for each file.)
 
 
  
